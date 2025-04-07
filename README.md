@@ -1,1 +1,1 @@
-sources for [xici's blog].(xici.github.io).
+sources for [xici's blog](https://xici.github.io/)
